@@ -1,0 +1,3 @@
+avg_acc,epoch,task,task_num,test_acc,test_loss
+,1.0,,1.0,0.945,0.24177059037610887
+94.5,,0.0,,,
